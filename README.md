@@ -24,6 +24,6 @@
 
 
 - :earth_asia: I'm based in the Philippines
-- :zap: I am an aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :zap: I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrei-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreiargana)
 - :bicyclist: Hobbies: Cycling, Table Tennis, Cooking, and Drinking Coffee :coffee:
